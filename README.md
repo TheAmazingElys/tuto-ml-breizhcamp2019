@@ -4,10 +4,10 @@ Supports de la conférence ["Machine Learning pour tous avec python"][1] présen
 Les slides sont visibles [ici][2].
 
 Sources:
-sklearn : [http://scikit-learn.org/][http://scikit-learn.org/]
-pandas : [https://pandas.pydata.org/][https://pandas.pydata.org/]
-Iris : [https://archive.ics.uci.edu/ml/datase][https://archive.ics.uci.edu/ml/datasets/iris]
-Titanic : [https://www.kaggle.com/c/titanic][https://www.kaggle.com/c/titanic]
+- sklearn : http://scikit-learn.org/
+- pandas : https://pandas.pydata.org/
+- Iris : https://archive.ics.uci.edu/ml/datasets/iris
+- Titanic : https://www.kaggle.com/c/titanic
 
 
 [1]: https://www.youtube.com/watch?v=vhJAHlKiFSI
