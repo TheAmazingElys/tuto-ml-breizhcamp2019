@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+numpy
+sklearn
+ipywidgets
+matplotlib
+tqdm
