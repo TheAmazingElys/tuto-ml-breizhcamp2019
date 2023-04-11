@@ -11,4 +11,4 @@ Sources:
 
 
 [1]: https://www.youtube.com/watch?v=vhJAHlKiFSI
-[2]: https://rallesiardo.github.io/tuto-ml-breizhcamp2019/
+[2]: https://theamazingelys.github.io/tuto-ml-breizhcamp2019/
